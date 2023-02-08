@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+### Feel free to [contact](mailto:raskatov@gmx.de) me!
+
+<a href="https://www.linkedin.com/in/alexander-preis-254799236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
